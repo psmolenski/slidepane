@@ -1,0 +1,8 @@
+{
+  "name": "slidepane",
+  "version": "0.0.0",
+  "devDependencies": {
+    "jquery": "~2.0.2",
+    "bootstrap": "bowerjs/bootstrap#~2.1.1"
+  }
+}
